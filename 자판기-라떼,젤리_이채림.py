@@ -4,7 +4,7 @@ PRICE_UNIT = 100
 
 class texts:
     title = "#### 클래스 %s 자판기 입니다. ####"
-    product = "%s:b%s(%s원)"
+    product = "%s:%s(%s원)"
     insert_coin = "동전을 넣어 주세요. :"
     n_enough_coin = "동전이 부족합니다.\n거스름돈은 %s원 입니다."
     select_product = "원하시는 상품번호를 선택하세요."
